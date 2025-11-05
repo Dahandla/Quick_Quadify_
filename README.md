@@ -1,7 +1,7 @@
 # Quick_Quadify_
 **One-Click Quad Retopology!** Convert any mesh to clean quad topology instantly. Features automatic conforming, smooth shading setup, and mesh repair. Perfect for game assets, character retopology, and animation-ready meshes.  ---
 
-![image]([https://github.com/Dahandla/C-code-3D-Model-Viewer/blob/b1ea6b33accc2a830e96d24fd04266ccc11112ee/resources/Image3.png](https://github.com/Dahandla/Quick_Quadify_/blob/765812ef54c5dc03692ab128a81ce03dd513f921/resources/screenshot.png
+![image](https://github.com/Dahandla/Quick_Quadify_/blob/765812ef54c5dc03692ab128a81ce03dd513f921/resources/screenshot.png
 ))
 
 
