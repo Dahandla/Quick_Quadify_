@@ -1,6 +1,8 @@
 # 🔲 Quick Quadify (Clean) - Complete Usage Guide
-!image[(])
-https://github.com/Dahandla/Quick_Quadify_/blob/c621753a6bc6f808bb67b1d6576fb5a8a15f9aea/resources/Quickquadify.png
+
+![image](https://github.com/Dahandla/Quick_Quadify_/blob/c621753a6bc6f808bb67b1d6576fb5a8a15f9aea/resources/Quickquadify.png
+)
+
 
 ## 🚀 Why This Add-On is Exciting & Different
 
@@ -408,5 +410,6 @@ You now have professional quad retopology in Blender with:
 - Clean topology for baking
 
 **Happy Quadifying!** 🔲✨
+
 
 
